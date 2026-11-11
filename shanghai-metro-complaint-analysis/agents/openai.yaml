@@ -1,0 +1,3 @@
+interface:
+  display_name: "Shanghai Metro Complaint Analysis"
+  short_description: "Analyze Shanghai metro wireless complaint evidence"
